@@ -1,0 +1,27 @@
+head{
+background-color: pinkk;
+}
+body{
+    background-color: pink;
+    background-origin: padding-box;
+}
+h1{
+    color: blue;
+}
+
+
+    
+
+h2{
+    color: GREEN;
+}
+p{
+    color: green;
+}
+   body:hoover{
+    background-color: greenyellow;
+   }
+   
+   
+
+
